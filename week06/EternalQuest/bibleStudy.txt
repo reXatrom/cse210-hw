@@ -1,0 +1,3 @@
+0
+0
+SimpleGoal|c3R1ZHkgdGhlIGJpYmxl|c3R1ZHlpbmcgdGhlIGJpYmxlIGVhY2ggZGF5|10|False
